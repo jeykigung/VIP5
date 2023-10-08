@@ -37,7 +37,7 @@ Please cite the following paper corresponding to the repository:
 @inproceedings{geng2023vip5,
   title={VIP5: Towards Multimodal Foundation Models for Recommendation},
   author={Geng, Shijie and Tan, Juntao and Liu, Shuchang and Fu, Zuohui and Zhang, Yongfeng},
-  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
   year={2023}
 }
 ```

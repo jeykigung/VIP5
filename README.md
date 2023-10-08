@@ -29,3 +29,19 @@ Towards Multimodal Foundation Models for Recommendation
     ```
     CUDA_VISIBLE_DEVICES=0,1,2,3 bash scripts/train_VIP5.sh 4 toys 13579 vitb32 2 8 20
     ```
+
+## Citation
+
+Please cite the following paper corresponding to the repository:
+```
+@inproceedings{geng2023vip5,
+  title={VIP5: Towards Multimodal Foundation Models for Recommendation},
+  author={Geng, Shijie and Tan, Juntao and Liu, Shuchang and Fu, Zuohui and Zhang, Yongfeng},
+  booktitle={Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)},
+  year={2023}
+}
+```
+
+## Acknowledgements
+
+[P5](https://github.com/jeykigung/P5), [VL-T5](https://github.com/j-min/VL-T5), [PETER](https://github.com/lileipisces/PETER), and [S3-Rec](https://github.com/aHuiWang/CIKM2020-S3Rec)

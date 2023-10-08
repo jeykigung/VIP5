@@ -1,5 +1,7 @@
 # VIP5
-Unifying CV, NLP and RecSys Towards Multimodal Large Recommendation Models
+Towards Multimodal Foundation Models for Recommendation
+
+![Teaser](figure/vip5_teaser.png)
 
 ## Dependencies: 
 - PyTorch 1.12

@@ -1,5 +1,5 @@
 # VIP5
-Towards Multimodal Foundation Models for Recommendation
+VIP5: Towards Multimodal Foundation Models for Recommendation
 
 ![Teaser](figure/vip5_teaser.png)
 
